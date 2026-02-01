@@ -4,6 +4,7 @@ Hi, I have made a few projects shocasing my excel skills I just learned :)
 So, Baiscally, I have made 2 Projects using Excel:-
 1. [**Salary Dashboard**](Excel_Project_1-Dashboard)
 2. [**Salary And Skills Analysis**](Excel_Project_2-Analysis)
+3. [**Coffee Shop Sales Dashboard**](Excel_Project_3-Coffee Shop Sales)
 
 ## Salary Dashboard
 This project provides an in-depth analysis of the average annual salaries across various data-related job roles. It enables job seekers to explore different data positions and their corresponding salary ranges through interactive charts and a visually engaging dashboard, making salary research clearer and more insightful.
