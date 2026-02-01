@@ -20,9 +20,10 @@ In today’s job market, researching a desired role can quickly become overwhelm
 
 <img width="541" height="240" alt="image" src="https://github.com/user-attachments/assets/8f098f6c-c4f6-47d1-b904-b4c1adffef9e" />   
 
-Check out this Project Now: [**Salary And Skills Analysis**](Excel_Project_2-Analysis)
+Check out this Project Now: [**Salary And Skills Analysis**](Excel_Project_2-Analysis)  
 
-##Coffee Shop Sales Dashboard
+## Coffee Shop Sales Dashboard
+
 An interactive Coffee Shop Sales Dashboard that provides a complete view of sales performance, customer footfall, and ordering patterns. It analyzes trends across hours, weekdays, months, products, and store locations through clean and intuitive visuals. The dashboard enables quick insights to support smarter operational and business decisions.
 
 <img width="1306" height="534" alt="image" src="https://github.com/user-attachments/assets/806d7b68-fdc9-4fdc-af7c-b49d5113cd48" />
