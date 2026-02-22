@@ -1,6 +1,6 @@
 # 📊 Sales Data Analytics Project (PostgreSQL)
 
-This project demonstrates a complete **SQL-based Data Analytics workflow** using PostgreSQL.  
+This project demonstrates a complete **SQL-based Advanced Data Analytics workflow** using PostgreSQL.  
 It includes schema creation, table design, CSV data import, business analysis queries, and final reporting views for customers and products.
 
 The main goal of this project is to analyze:
