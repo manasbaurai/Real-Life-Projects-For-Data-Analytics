@@ -56,7 +56,7 @@ Check out this project now: [**Products Sales Dashboard**](Excel_Project_4-Sales
 Throughout the journey, I have made 4 SQL projects going from an Intermediate to Advanced Level. All these projects are built around real-life business queries encountered in organizations.
 1. [**Gold Layer Analytics (Advanced)**](SQL_Project_1-Gold_Layer_Analytics(Advanced))
 2. [**Netflix TV Show and Movies Analysis (Advanced)**](SQL_Project_2-Netflix_TV_Shows_and_Movies(Advanced))
-3. [**Employees Demographics and Departments Analysis (Advanced)**](SQL_Project_3-Employees_layoff_Analysis(Advanced))
+3. [**Employees layoffs Globally Analysis (Advanced)**](SQL_Project_3-Employees_layoff_Analysis(Advanced))
 4. [**Zepto Products Sale Analysis (Intermediate)**](SQL_Project_4-Zepto_Poducts_Sales_Analysis(Intermediate))
 
 ## End Note
