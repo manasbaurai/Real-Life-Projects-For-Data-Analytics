@@ -4,6 +4,8 @@
 This project demonstrates a complete **SQL-based Data Cleaning and Exploratory Analysis workflow** using MySQL.  
 It includes removing duplicates, standardizing data, handling null values, and performing business analysis queries.
 
+Dataset Used in this:- [Datasets](Datasets_Used)
+
 ---
 
 ## 🧱 1. Initial Setup — Staging Table
